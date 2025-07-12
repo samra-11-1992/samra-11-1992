@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Samrawit Getachew
 
-<!--
-**samra-11-1992/samra-11-1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Graduate in Mathematics | 📍 Addis Ababa, Ethiopia  
+🔬 Researcher | 📚 Educator | 📊 Math Modeler
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 My Research:
+**Spatiotemporal Dynamics of an Intraguild Predation Model with Prey-Taxis and Density-Dependent Mortality**
+
+> 🔍 I study ecological interactions using mathematical models — especially partial differential equations (PDEs).
+
+---
+
+### 💡 Interests & Skills:
+- ✅ Differential Equations, PDEs, Mathematical Modeling  
+- ✅ LaTeX, MATLAB, Python, MS Word & Excel  
+- ✅ Lesson planning, research writing, and academic communication  
+- ✅ Strong in teamwork, punctuality, and problem-solving
+
+---
+
+### 📂 Projects:
+🔸 Thesis: *Intraguild Predation Model*  
+🔸 Teaching Resources: Lesson Plans & Worksheets  
+🔸 Ongoing: Simulation-based learning in math education
+
+---
+
+### 📬 Contact Me:
+- 📧 Email: samrawitget14@gmail.com  
+- 📞 Phone: +251920392515  
+- 🔗 [LinkedIn](https://linkedin.com/in/samrawit-wodajo-06a558291)  
