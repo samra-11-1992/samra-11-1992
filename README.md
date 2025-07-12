@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samrawit Getachew
+# Hi, I'm Samrawit Getachew
 
 🎓 MSc Graduate in Mathematics | 📍 Addis Ababa, Ethiopia  
 🔬 Researcher | 📚 Educator | 📊 Math Modeler
